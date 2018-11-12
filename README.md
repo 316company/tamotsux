@@ -1,3 +1,7 @@
+# ⛔️ DEPRECATED
+
+Please use [@sheetbase/tamotsux-server](https://github.com/sheetbase/tamotsux-server).
+
 # TamotsuX
 
 This is a modification version of original **Tomatsu** library, **supports multiple Spreadsheets**.
